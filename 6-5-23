@@ -1,0 +1,5 @@
+x
+y
+z
+git config --global user.email "majjipadmapriya13@gmail.com"
+  git config --global user.name "majjipadma-priya"
