@@ -1,0 +1,19 @@
+sql
+DCL(GRANT,REVOKE)
+TCL(Commit,rollback)
+Data types in sql
+numberic,strings,images
+tuple,entity,row,column,attributes
+important data types in sql
+int,varchar,date,float,boolean
+DBMS
+why DBMS tool used un sql
+
+EXCEL:
+Data validation
+Conditional formatting
+
+English
+practice sentence formation.
+self introduction
+phrases
