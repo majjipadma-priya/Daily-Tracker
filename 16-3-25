@@ -1,0 +1,15 @@
+common sql constraints
+*primary key
+*foreign key
+*not null
+*unique
+*check
+*default
+insert commands (it's a DML command)
+how to insert the table in a single row
+how to insert the table in a multiple row
+
+excel;
+adjust column width  in excel
+using flash fill in excel 
+inserting tables in excel
