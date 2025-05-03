@@ -1,0 +1,12 @@
+Sql:
+* SQL can create new databases
+* SQL can create new tables in a database
+* SQL can create stored procedures in a database
+* SQL can create views in a database
+* SQL can set permissions on tables, procedures, and views
+* RDBMS
+Excel:
+Undo deleting a formula
+Undo adding a column
+Undo removing a row
+Redo
