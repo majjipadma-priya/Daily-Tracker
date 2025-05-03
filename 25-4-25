@@ -1,0 +1,10 @@
+* Sql:
+* examples of how to create  table student (ID int, Name)
+* DML commands include
+* Insert -to add data
+* Update - to modify data
+* Delete - to remove data
+ excel:
+ Data and time functions (today, now , yesterday)
+ Pivot tables summarizing the data 
+ 
