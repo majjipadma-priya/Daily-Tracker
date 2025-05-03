@@ -1,0 +1,17 @@
+SQL:
+* SELECT COMMAND IN SQL:         Select column1,column2,....
+In mysql-- use youtube;        from table_name;
+mysql-show tables;
+mysql>select * from student;
+mysql>desc student;
+* What is SELECT command and how to use it
+* what is DBMS 
+* What is CRUD operations
+
+Excel:
+Basic formulas like SUM , Average,MIN, Max helpwith quick calculations
+* Cell referencing 
+* Relative and Absolute 
+* And how to copying the foormulas correctly by using cell referencing
+
+
