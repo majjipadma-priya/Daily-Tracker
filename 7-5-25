@@ -1,0 +1,13 @@
+SQL: SQL:
+* SELECT COMMAND IN SQL:         
+In mysql-- use youtube;        
+mysql-show tables;
+mysql>select * from student;
+mysql>desc student;
+* What is SELECT command and how to use it
+* what is DBMS 
+* What is CRUD operations
+
+Excel:
+Basic formulas like SUM , Average,MIN, Max helpwith quick calculations
+* Cell reference
