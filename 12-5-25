@@ -1,0 +1,15 @@
+*sql
+DCL(GRANT,REVOKE)
+TCL(Commit,rollback)
+Data types in sql
+numberic,strings,images
+tuple,entity,row,column,attributes
+important data types in sql
+int,varchar,date,float,boolean
+DBMS
+why DBMS tool used un sql
+
+Desktop support 
+* what is networking
+* what is hardware and software 
+* what is ping
